@@ -339,7 +339,11 @@ h3 {
     animation: scroll(1.4);
     transition: 3s ease;
     transform: scale(1.5);
+    overflow: hidden;
     
+}
+#image {
+overflow: hidden;
 }
 #rob1 {
     width: 400px;
